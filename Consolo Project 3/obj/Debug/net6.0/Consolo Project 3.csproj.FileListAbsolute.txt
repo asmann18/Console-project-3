@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\bin\Debug\net6.0\Consolo Project 3.exe
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\bin\Debug\net6.0\Consolo Project 3.deps.json
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\bin\Debug\net6.0\Consolo Project 3.runtimeconfig.json
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\bin\Debug\net6.0\Consolo Project 3.dll
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\bin\Debug\net6.0\Consolo Project 3.pdb
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.dll
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\refint\Consolo Project 3.dll
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.pdb
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\Consolo Project 3.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Consolo Project 3\Consolo Project 3\obj\Debug\net6.0\ref\Consolo Project 3.dll
